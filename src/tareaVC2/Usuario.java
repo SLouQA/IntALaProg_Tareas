@@ -1,4 +1,4 @@
-package tareaVC1;
+package tareaVC2;
 
 
 public class Usuario {
@@ -15,4 +15,3 @@ public class Usuario {
         TESTERLEADER
     }
 }
-
