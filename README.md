@@ -32,3 +32,4 @@ La contraseña y detalles están en la tarea https://capacitacion.ces.com.uy/mod
 
 (!) No existe posibilidad de realizar loguin con rol tester 
 
+<img width="1021" height="577" alt="UML VC4" src="https://github.com/user-attachments/assets/0adf5e6e-2bd7-4f35-893a-8ac6790dcbbb" />
