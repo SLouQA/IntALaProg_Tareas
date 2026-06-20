@@ -1,7 +1,7 @@
-package tareaVC3;
+package tareaVC4;
 
 
-public class Usuario {
+public abstract class Usuario {
 
     private String name;
     private String lastname;
@@ -56,4 +56,13 @@ public class Usuario {
     public void setCountry(String country) {
         this.country = country;
     }
+
+    public void mostrarDatos() {
+        System.out.println("\nNombre: " + name);
+        System.out.println("Apellido: " + lastname);
+        System.out.println("Email: " + email);
+        System.out.println("Ciudad: " + country);
+    }
+
 }
+

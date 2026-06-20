@@ -31,3 +31,4 @@ La contraseña y detalles están en la tarea https://capacitacion.ces.com.uy/mod
           - Acción eliminar usuario (sólo usuarios con rol Tester)
 
 (!) No existe posibilidad de realizar loguin con rol tester 
+
