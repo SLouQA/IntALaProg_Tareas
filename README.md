@@ -32,3 +32,11 @@ La contraseña y detalles están en la tarea https://capacitacion.ces.com.uy/mod
 
 (!) No existe posibilidad de realizar loguin con rol tester 
 
+* ###  Cómo ejecutar el programa
+1. Abrir el proyecto en un lector de código compatible con Java (IntelliJ, Eclipse).
+2. Ejecutar la clase `Main`.
+3. Se cargan 2 usuarios de prueba: 
+   - Admin (sil@ces.uy / 1234)
+   - Tester (pau@ces.uy / 1234).
+
+* ###  UML
