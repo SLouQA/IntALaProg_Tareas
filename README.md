@@ -40,3 +40,5 @@ La contraseña y detalles están en la tarea https://capacitacion.ces.com.uy/mod
    - Tester (pau@ces.uy / 1234).
 
 * ###  UML
+
+  <img width="2300" height="1746" alt="Diagrama sin título drawio" src="https://github.com/user-attachments/assets/1a3735bf-0185-4a5b-b56b-9e86276f2ff4" />
