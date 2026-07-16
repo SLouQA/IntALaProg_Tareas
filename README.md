@@ -30,16 +30,5 @@ La contraseña y detalles están en la tarea https://capacitacion.ces.com.uy/mod
       - Ver usuarios: <br>
           - Acción eliminar usuario (sólo usuarios con rol Tester)
 
-(!) No existe posibilidad de realizar login con rol tester 
+(!) No existe posibilidad de realizar loguin con rol tester 
 
-## Tarea Final 
-
-* ###  Cómo ejecutarlo
-
-- Abrir el código en en un editor de código compatible con JAVA
-- Ejecutar la clase "Main"
-- Existen 2 usuarios de prueba:
-  - Admin (sil@ces.uy / 1234)
-  - Tester (pau@ces.uy / 1234)
-
-* ###  UML
