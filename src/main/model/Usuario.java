@@ -1,4 +1,4 @@
-package tareaVC4;
+package main.model;
 
 
 public abstract class Usuario {
